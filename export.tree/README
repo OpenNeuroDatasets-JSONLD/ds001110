@@ -1,0 +1,30 @@
+
+
+This directory includes the data of 18 particpants who watched Sherlock movie and listened to the audio recording of Merlin movie.
+It also includes the data of 18 particpants who watched Merlin movie and listened to the audio recording of Sherlock movie.
+In addition there is the data of one particpants who watching both of these movies and recalling each of them in the scanner (two seperate days for the two movies). 
+The audio recording of these sessions was used as stimuli that the lsiteners listened to in the scanner. Deskulled anatomical scan images are included for each subject.
+
+The data needs to be cropped from the beginning and the end to be aligned and matches the onset of the stimuli.
+
+Cropping info (in seconds, NOT including HRF delay):
+
+viewers:
+Merlin Movie: start 25.5  end 1528
+Sherlock Movie: start 25.5  end 1441
+
+listeners:
+Merlin Audio: start 3  end 915
+Sherlick Audio: start 3  end 1080
+
+speaker:
+Merin Movie: start 25.5  end 1528
+Sherlock Movie: start 25.5  end 1441
+
+Merlin Recall: start 6 end 909
+Sherlock Recall: start 4.5 end 1060
+
+
+For more info about the methods please refer to https://academic.oup.com/cercor/article/doi/10.1093/cercor/bhx202/4080827/How-We-Transmit-Memories-to-Other-Brains
+
+
