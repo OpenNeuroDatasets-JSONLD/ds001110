@@ -1,2 +1,2 @@
-onset	duration
-4.5	1055.5
+onset	duration	stim_file
+3	1059	freerecall_sherlock.wav
